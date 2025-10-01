@@ -53,3 +53,34 @@
 `git push origin main`
 
 [Ссылка на коммит](https://github.com/eugenegolovenko-collab/github-hw/commit/ef876615baf2a297ced47fa327104400da80b36e)
+
+---
+## Задание 2
+
+**Действия:**
+1. Создан файл `.gitignore`:
+
+   `touch .gitignore`
+   
+   `git status`
+
+2. Добавлены правила игнорирования:
+
+   `cache/`
+
+   `*.pyc`
+
+3. Добавление в staged и коммит:
+
+   `git add .gitignore`
+   
+   `git commit -m "Add .gitignore file"`
+
+4. Отправка изменений:
+   
+   `git push origin main`
+   
+[Ссылка на коммит](https://github.com/eugenegolovenko-collab/github-hw/commit/48d9d52e5099f16d398b77427ae3de6a98239162)
+
+
+   
